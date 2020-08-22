@@ -6,7 +6,6 @@ Projeto desenvolvido para ser utilizado durante as aulas.
 
 > docker-compose up –d
 
-
 Os seguintes respositórios serviram de fonte de inspiração:
   <li> https://github.com/deviantony/docker-elk/
   <li> https://github.com/elastic/apm-integration-testing
